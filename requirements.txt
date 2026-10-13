@@ -1,0 +1,15 @@
+langchain>=1.0
+langchain-community
+langchain-classic
+rank-bm25
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
+langchain-tavily
+langgraph
+sentence-transformers
+faiss-cpu
+pymupdf
+pydantic
+python-dotenv
+streamlit
